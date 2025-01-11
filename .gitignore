@@ -1,0 +1,21 @@
+# Ignore build and binary files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.suo
+*.user
+*.sln
+
+# Ignore system-specific files
+*.log
+*.tmp
+
+# Ignore IDE files
+*.idea/
+*.vscode/
+
+# Ignore backups and autosaves
+*.bak
+*.old
